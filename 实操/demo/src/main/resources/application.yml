@@ -1,0 +1,21 @@
+#server:
+#  port: 8080
+#spring:
+#  profiles:
+#    active: aaa
+#---
+#server:
+#  port: 8081
+#spring:
+#  profiles: aaa
+#---
+#server:
+#  port: 8082
+#spring:
+#  profiles: bbb
+
+
+
+server:
+  servlet:
+    context-path: /aimer
