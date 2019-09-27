@@ -1,5 +1,0 @@
-dubbo:
-  application:
-    name: comsumer-user
-  registry:
-    address: zookeeper://192.168.179.131:2111
